@@ -13,5 +13,9 @@
     "list"
   ],
   "author": "Takowski",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.3",
+    "country-list": "^2.3.0"
+  }
 }
